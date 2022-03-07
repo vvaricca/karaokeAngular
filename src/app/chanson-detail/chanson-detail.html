@@ -1,0 +1,7 @@
+
+<h1>{{titre}}</h1>
+<h2>{{chanteur}}</h2>
+<a routerLink="/chansons">&larr; Liste des chansons</a><br/>
+<div id="videoContainer">
+	<video autoplay="true" preload="auto" controls src='{{url}}' (ended)="retourListe()"></video>
+</div>	

@@ -1,0 +1,14 @@
+a{
+	text-decoration: none;
+	padding:2%;
+	margin-left:4%;
+	margin-right:4%;
+	font-size: 110%;
+	display : block;
+	background-color: white;
+	text-decoration: none;
+	border: groove 5px gold;
+	font-family: Elegance;
+	font-weight: bold;
+	color : black;
+}

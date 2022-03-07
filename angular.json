@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "karaokeAnniv"
+    }
+  },
+  "defaultProject": "karaokeAnniv",
+  "cli": {
+    "analytics": "27cc5bd2-3b8c-463c-99b5-2b4618ecaa48"
+  }
 }
